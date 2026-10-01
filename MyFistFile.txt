@@ -1,1 +1,2 @@
-Hello, friends
+Hello! friends.
+This is my first GitHub Change.
